@@ -27,3 +27,8 @@ target
 opencode-dev
 logs/
 *.bun-build
+.env
+**/.env
+packages/
+**/packages/
+node_modules/
